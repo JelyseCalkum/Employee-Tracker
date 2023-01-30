@@ -5,7 +5,9 @@ Developers frequently have to create interfaces that allow non-developers to eas
 These interfaces are called content management systems (CMS). 
 This project is a command-line application built from scratch to manage a company's employee database, using Node.js, Inquirer, and MySQL.
 
-You can check out the project files in my GitHub repository here: https://github.com/JelyseCalkum/Employee-Tracker
+You can view the walkthrough video here: https://watch.screencastify.com/v/wlxsh0L4fGMsDaOVmZMP
+
+Or you can check out the project files in my GitHub repository here: https://github.com/JelyseCalkum/Employee-Tracker
 
 
 INSTALLATION
@@ -24,6 +26,12 @@ Add database Schemas and Seeds files to your MySql Workbench to create initial t
 USAGE
 
 Enter npm start or node server.js in your command line to begin the queries.
+
+
+![Screenshot 2023-01-29 182745](https://user-images.githubusercontent.com/115381607/215378379-49c0070e-8ef0-4d27-a11a-b259d21b62f5.png)
+
+
+![Screenshot 2023-01-29 182825](https://user-images.githubusercontent.com/115381607/215378392-4bc8d22d-884a-4616-bfe4-b9fdf4561493.png)
 
 
 USER STORY
